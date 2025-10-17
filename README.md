@@ -5,4 +5,4 @@ Two-page executive summary proposing an RFID + EAS + QR self-checkout concept to
 
 **File:** `SmartCheckout_ExecutiveSummary.docx` 
 
-**Author:** Akshay Deep Siddam — MBA (Business Analytics), Baruch College
+
